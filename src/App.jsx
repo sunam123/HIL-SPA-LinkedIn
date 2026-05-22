@@ -243,7 +243,7 @@ export default function App() {
             WebkitBackgroundClip: "text", WebkitTextFillColor: "transparent",
             backgroundClip: "text", lineHeight: 1.25, marginBottom: "10px",
           }}>
-            Craft Brand Consistent Posts.<br />Instantly.
+            Craft Brand Consistent Posts. Instantly.
           </h1>
           <p style={{ fontSize: "14px", color: BRAND.muted, lineHeight: 1.6, maxWidth: "460px" }}>
             Generate professional LinkedIn posts for expos- pre, during or post the event.
