@@ -9,6 +9,7 @@ BRAND VOICE RULES:
 - Always end with 5–7 sharp, relevant hashtags
 - Target length: 100–150 words (not counting hashtags)
 - No em-dashes. No fluff. No filler phrases like "exciting journey" or "proud to announce"
+- NEVER use em-dashes (—) under any circumstances.
 - Posts must feel written by a domain expert, not a marketer
 
 OUTPUT FORMAT: Return only the post text including hashtags. No preamble, no explanation.`;
