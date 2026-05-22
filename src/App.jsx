@@ -243,10 +243,10 @@ export default function App() {
             WebkitBackgroundClip: "text", WebkitTextFillColor: "transparent",
             backgroundClip: "text", lineHeight: 1.25, marginBottom: "10px",
           }}>
-            Craft On-Brand Posts.<br />Instantly.
+            Craft Brand Consistent Posts.<br />Instantly.
           </h1>
           <p style={{ fontSize: "14px", color: BRAND.muted, lineHeight: 1.6, maxWidth: "460px" }}>
-            Generate professional LinkedIn posts for expos, trade fairs, and industry events — tuned to Hindalco's brand voice.
+            Generate professional LinkedIn posts for expos- pre, during or post the event.
           </p>
         </div>
       </div>
